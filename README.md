@@ -6,11 +6,11 @@
 </p> <hr/>
 <h4 align="center">I am an undergraduate Software Enginnering Student in Curtin University.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PasinduBandaraa&label=Profile%20views&color=0e75b6&style=flat" alt="MethmiRanasinghe" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=methmiranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="MethmiRanasinghe" /> </p>
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduBandaraa&theme=dark" alt="MethmiRanasinghe"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=methmiranasinghe&theme=dark" alt="MethmiRanasinghe"  /></p>
 
 ## 🛠️ My Skills
 
