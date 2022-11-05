@@ -8,6 +8,8 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=methmiranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="MethmiRanasinghe" /> </p>
 
+[![@1_methmi_hasra's Holopin board](https://holopin.me/1_methmi_hasra)](https://holopin.io/@1_methmi_hasra)
+
 ## 🔥 Streak Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=methmiranasinghe&theme=dark" alt="MethmiRanasinghe"  /></p>
