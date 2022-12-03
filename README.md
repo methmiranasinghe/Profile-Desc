@@ -91,6 +91,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Methmi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=methmiranasinghe&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
+	  
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=methmiranasinghe&show_icons=true&locale=en&layout=compact&theme=algolia" alt="methmiranasinghe" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -100,7 +101,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-	
+	[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
    <a href="https://github.com/methmiranasinghe"><img alt="Methmi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=methmiranasinghe&theme=dracula" /></a>
   <br/>
 
