@@ -100,7 +100,8 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/methmiranasinghe"><img alt="Methmi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=methmiranasinghe&custom_title=Methmi%20Ranasinghe%20Contribution%20Graph&theme=react-dark" /></a>
+	
+   <a href="https://github.com/methmiranasinghe"><img alt="Methmi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=methmiranasinghe&theme=dracula" /></a>
   <br/>
 
 </details>
