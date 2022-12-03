@@ -101,7 +101,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-	[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+	![Methmi's github activity graph](https://activity-graph.herokuapp.com/graph?username=methmiranasinghe)](https://github.com/methmiranasinghe/github-readme-activity-graph)
    <a href="https://github.com/methmiranasinghe"><img alt="Methmi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=#your-username&theme=dracula&hide_border=true" /></a>
   <br/>
 
