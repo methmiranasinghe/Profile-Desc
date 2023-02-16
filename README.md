@@ -60,11 +60,11 @@
   </a>
    &emsp;
   <a href="https://reactjs.org/" target="_blank"> 
-    <img alt="React" src="https://ionicframework.com/docs/icons/logo-react-icon.png" >
+    <img alt="React" src="https://ionicframework.com/docs/icons/logo-react-icon.png?style=flat&logo=bootstrap&logoColor=white" >
   </a>
   &emsp;
   <a href="https://flutter.dev/" target="_blank"> 
-    <img alt="Flutter" src="https://cdn.dribbble.com/users/1622791/screenshots/11174104/media/10f980d41342cfb900a4b8e6d025bb79.png">
+    <img alt="Flutter" src="https://cdn.dribbble.com/users/1622791/screenshots/11174104/media/10f980d41342cfb900a4b8e6d025bb79.pngstyle=flat&logo=bootstrap&logoColor=white"">
   </a>
   </a>
 
