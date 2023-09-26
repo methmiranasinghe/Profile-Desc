@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%2344F722&lines=Software+Engineering+Graduate;+Mobile%20and%20Web%20App%20Developer;Always%20try%20to%20learn%20new%20things&center=true&width=500&height=50"></a>
 </p> <hr/>
-<h4 align="center">I am an Graduate in Software Engineering Curtin University.</h4>
+<h4 align="center">I am a Graduate in Software Engineering at Curtin University.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=methmiranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="MethmiRanasinghe" /> </p>
 
