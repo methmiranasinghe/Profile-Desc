@@ -12,7 +12,8 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=methmiranasinghe&theme=dark" alt="MethmiRanasinghe"  /></p>
 <p align="center"><img src ="https://github-readme-stats.vercel.app/api?username=methmiranasinghe&theme=transparent&show_icons=true)"/></p>
- ## 🛠️ My Skills
+
+🛠️ My Skills
 
 ### 👉 Programming languages
 
@@ -107,7 +108,8 @@
   </p>
 </details>
 
-
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methmiranasinghe&layout=pie)](https://github.com/ranasinghe/github-readme-stats)
 
 <br/>
 
