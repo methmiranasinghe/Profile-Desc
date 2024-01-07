@@ -95,8 +95,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Methmi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=methmiranasinghe&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-### Languages
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methmiranasinghe&layout=pie&theme=algolia)](https://github.com/methmiranasinghe/github-readme-stats)
+
 
   <br/>
    </p>
@@ -104,7 +103,8 @@
 </details>
 
 
-
+### Languages
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methmiranasinghe&layout=pie&theme=algolia)](https://github.com/methmiranasinghe/github-readme-stats)
 
 <br/>
 
