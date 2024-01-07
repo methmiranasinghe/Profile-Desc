@@ -11,7 +11,7 @@
 ## 🔥 Streak Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=methmiranasinghe&theme=dark" alt="MethmiRanasinghe"  /></p>
-![Methmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=methmiranasinghe&theme=transparent&show_icons=true)
+![Methmi's GitHub stats] <img src ="https://github-readme-stats.vercel.app/api?username=methmiranasinghe&theme=transparent&show_icons=true)"/>
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
