@@ -96,7 +96,7 @@
 <br/>
   &nbsp;
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=methmiranasinghe&show_icons=true&locale=en&layout=pie&theme=algolia" alt="methmiranasinghe" height="192px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=methmiranasinghe&show_icons=true&locale=en&layout=pie" alt="methmiranasinghe" height="302px"/>
   <br/>
    </p>
 
