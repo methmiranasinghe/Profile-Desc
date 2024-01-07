@@ -109,7 +109,7 @@
 </details>
 
 ### Languages
-[![Top Langs(https://github-readme-stats.vercel.app/api/top-langs/?username=methmiranasinghe&layout=pie)](https://github.com/ranasinghe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=methmiranasinghe&layout=pie)](https://github.com/methmiranasinghe/github-readme-stats)
 
 <br/>
 
