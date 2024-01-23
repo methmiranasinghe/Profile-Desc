@@ -107,10 +107,6 @@
 
 <br/>
 
-## 🎧 Can't code without music
-
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2mdnrjwv7d4bf6r0dvc9r61nm) -->
-
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
