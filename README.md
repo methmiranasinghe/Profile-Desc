@@ -1,8 +1,10 @@
 <h1 align="center">Hi , I'm Methmi Ranasinghe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<img align="left" width="250" height="250" src="ezgif.com-animated-gif-maker.gif"/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=%2344F722&lines=Software+Engineering+Graduate;+Mobile%20and%20Web%20App%20Developer;Always%20try%20to%20learn%20new%20things&center=true&width=500&height=50"></a>
 </p> <hr/>
-<img align="left" width="250" height="250" src="ezgif.com-animated-gif-maker.gif"/>
+
 <h4 align="center">I am a hardworking and ambitious individual, driven by a deep passion for experimenting with new technologies in the ever-evolving tech world. Eager to explore and embrace innovative solutions, I am committed to continuous learning and staying at the forefront of the latest trends. My dedication to pushing boundaries and my enthusiasm for tackling challenges make me an ardent advocate for progress and growth within the dynamic realm of technology</h4>
 <be>
 
