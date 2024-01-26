@@ -10,7 +10,7 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=methmiranasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="MethmiRanasinghe" /> </p>
-<h2>My Hacktoberfest Achievements</h2>
+
 [![@1_methmi_hasra's Holopin board](https://holopin.me/1_methmi_hasra)](https://holopin.io/@1_methmi_hasra)
 
 
