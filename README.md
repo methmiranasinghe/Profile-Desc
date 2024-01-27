@@ -83,4 +83,7 @@
 <a href="mailto:methmiranasinghe@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
+<a href="mailto:methmiranasinghe@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=A020F0&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+
 <hr/>
