@@ -87,7 +87,7 @@
 <img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=A020F0&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 
 <a href="mailto:methmiranasinghe@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/instargram-%2300acee.svg?color=FFC0CB&style=for-the-badge&logo=instargram&logoColor=white alt=instargram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%2300acee.svg?color=FFC0CB&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
 </p>
 <hr/>
