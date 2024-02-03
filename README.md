@@ -76,7 +76,7 @@
 
 
 
-<p align="center">
+
 <a href="https://www.linkedin.com/in/methmi-ranasinghe-558b3b1b1/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=0000FF&style=for-the-badge&logo=linkedin&logoColor=white alt=lnikedin style="margin-bottom: 5px;" />
 
@@ -89,5 +89,5 @@
 <a href="mailto:methmiranasinghe@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%2300acee.svg?color=FFC0CB&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
-</p>
+
 <hr/>
