@@ -72,7 +72,7 @@
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♀️  Connect with Me
 
 
 
