@@ -24,7 +24,7 @@
 
 ### 🛠️ My Skills
 
-#####  👉 Languages and Tools...
+#####  👉 Languages and Tools 
 
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:10px"> &nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="Twitter" style="vertical-align:top; margin:10px"> &nbsp;  &nbsp;
