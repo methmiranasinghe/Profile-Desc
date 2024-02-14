@@ -72,10 +72,7 @@
 
 <br/>
 
-## 🙋‍♀️  Connect with Me
-
-
-
+## 🙋‍♀️ Let's Connect
 
 <a href="https://www.linkedin.com/in/methmi-ranasinghe-558b3b1b1/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=0000FF&style=for-the-badge&logo=linkedin&logoColor=white alt=lnikedin style="margin-bottom: 5px;" />
