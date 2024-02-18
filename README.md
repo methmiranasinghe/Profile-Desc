@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Methmi Ranasinghe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Methmi Hasara Ranasinghe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="left" width="250" height="250" src="ezgif.com-animated-gif-maker.gif"/>
 <p align="center">
