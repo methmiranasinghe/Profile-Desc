@@ -13,13 +13,6 @@
 
 [![@1_methmi_hasra's Holopin board](https://holopin.me/1_methmi_hasra)](https://holopin.io/@1_methmi_hasra)
 
-###  📊 Github Stats
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=methmiranasinghe&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  &nbsp;&nbsp; &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=methmiranasinghe&count_private=true&theme=dracula">
-</p>
 
 
 ### 🛠️ My Skills
